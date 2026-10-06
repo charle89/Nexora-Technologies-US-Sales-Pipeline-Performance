@@ -1,0 +1,201 @@
+Customer,State,Sales Rep,Product,Sales Stage,Deal Value (USD),Lead Source,Close Date
+Miami Business 001,Florida,Olivia Brown,Business Intelligence,New Lead,9102.01,Website,2026-03-13
+Minneapolis Business 002,Minnesota,Emma Johnson,Marketing Automation,Proposal Sent,2033.52,LinkedIn,2026-04-22
+Nashville Business 003,Tennessee,James Wilson,Analytics Platform,Contacted,17983.97,Partner,2026-05-23
+Richmond Business 004,Virginia,Olivia Brown,CRM Software,Qualified,4932.9,Partner,2026-06-22
+Miami Business 005,Florida,Ava Martinez,Marketing Automation,Qualified,16075.15,Website,2026-01-23
+Newark Business 006,New Jersey,Emma Johnson,Business Intelligence,New Lead,11732.32,Website,2026-07-05
+Houston Business 007,Texas,Emma Johnson,CRM Software,Closed Won,8609.11,Partner,2026-02-10
+Denver Business 008,Colorado,Emma Johnson,Business Intelligence,Proposal Sent,13097.92,Cold Call,2026-07-01
+New York Business 009,New York,Michael Davis,Cybersecurity,Negotiation,5722.0,Partner,2026-05-06
+Denver Business 010,Colorado,Emma Johnson,CRM Software,Closed Won,8310.57,Google Ads,2026-01-29
+Newark Business 011,New Jersey,Emma Johnson,Business Intelligence,Qualified,3579.77,Webinar,2026-06-11
+Newark Business 012,New Jersey,Emma Johnson,Business Intelligence,Closed Won,25928.77,Cold Call,2026-03-13
+Minneapolis Business 013,Minnesota,Ava Martinez,CRM Software,Proposal Sent,19257.97,LinkedIn,2026-03-12
+Miami Business 014,Florida,Olivia Brown,Cybersecurity,Contacted,6360.4,Partner,2026-08-05
+Baltimore Business 015,Maryland,Olivia Brown,Business Intelligence,Proposal Sent,12369.85,Cold Call,2026-01-06
+Richmond Business 016,Virginia,James Wilson,Business Intelligence,New Lead,9956.44,Cold Call,2026-08-21
+Portland Business 017,Oregon,Daniel Miller,Business Intelligence,Closed Lost,5656.51,Cold Email,2026-02-24
+Chicago Business 018,Illinois,James Wilson,Marketing Automation,Qualified,5734.96,Google Ads,2026-09-29
+Detroit Business 019,Michigan,Emma Johnson,CRM Software,New Lead,4872.38,Cold Email,2026-06-07
+Minneapolis Business 020,Minnesota,Michael Davis,Analytics Platform,New Lead,4517.43,Webinar,2026-02-05
+Nashville Business 021,Tennessee,Emma Johnson,Marketing Automation,Contacted,10374.53,Cold Email,2026-08-05
+Phoenix Business 022,Arizona,Ava Martinez,CRM Software,Proposal Sent,14957.18,Cold Email,2026-09-22
+Boston Business 023,Massachusetts,Emma Johnson,CRM Software,New Lead,12141.98,Website,2026-04-28
+Houston Business 024,Texas,Olivia Brown,Marketing Automation,Contacted,4829.76,Cold Email,2026-06-19
+Denver Business 025,Colorado,Ava Martinez,Analytics Platform,Closed Won,26892.2,Webinar,2026-03-09
+Columbus Business 026,Ohio,Sophia Anderson,Cybersecurity,Contacted,3374.48,Partner,2026-08-09
+Philadelphia Business 027,Pennsylvania,James Wilson,Cybersecurity,Closed Lost,2757.54,Google Ads,2026-02-20
+Miami Business 028,Florida,Michael Davis,Cybersecurity,Contacted,6641.96,Referral,2026-08-18
+Denver Business 029,Colorado,Ava Martinez,Marketing Automation,Proposal Sent,8951.39,Website,2026-02-08
+Houston Business 030,Texas,Michael Davis,Cybersecurity,Closed Won,3090.12,Webinar,2026-05-02
+Detroit Business 031,Michigan,William Thomas,CRM Software,Contacted,24121.99,Partner,2026-03-26
+Denver Business 032,Colorado,Michael Davis,Analytics Platform,Closed Lost,27850.86,Cold Call,2026-09-07
+Seattle Business 033,Washington,James Wilson,Marketing Automation,New Lead,2841.47,Webinar,2026-01-30
+Portland Business 034,Oregon,Olivia Brown,Analytics Platform,Closed Lost,4540.78,Website,2026-09-18
+Baltimore Business 035,Maryland,James Wilson,Marketing Automation,New Lead,7362.74,Website,2026-05-07
+Columbus Business 036,Ohio,Sophia Anderson,Analytics Platform,Closed Won,18309.27,Cold Call,2026-04-15
+Newark Business 037,New Jersey,James Wilson,Cybersecurity,Contacted,10057.51,Website,2026-02-07
+New York Business 038,New York,Sophia Anderson,CRM Software,Negotiation,7707.36,Cold Email,2026-03-09
+Charlotte Business 039,North Carolina,James Wilson,Business Intelligence,Qualified,5484.51,Cold Call,2026-06-04
+Miami Business 040,Florida,Michael Davis,Cloud Services,Contacted,8519.43,Cold Call,2026-02-24
+Baltimore Business 041,Maryland,Ava Martinez,Cloud Services,Contacted,13374.28,LinkedIn,2026-05-16
+New York Business 042,New York,James Wilson,Cloud Services,Closed Won,23464.13,Referral,2026-01-23
+Denver Business 043,Colorado,James Wilson,CRM Software,Contacted,31447.69,Website,2026-08-07
+Chicago Business 044,Illinois,William Thomas,Analytics Platform,Negotiation,2938.92,LinkedIn,2026-03-17
+Phoenix Business 045,Arizona,Emma Johnson,Business Intelligence,Qualified,3011.29,Website,2026-04-18
+Charlotte Business 046,North Carolina,Emma Johnson,Analytics Platform,Closed Lost,24764.53,Referral,2026-03-21
+Columbus Business 047,Ohio,William Thomas,Business Intelligence,New Lead,6223.0,Cold Email,2026-06-20
+Denver Business 048,Colorado,Ava Martinez,Analytics Platform,Contacted,3888.58,Cold Email,2026-01-20
+Philadelphia Business 049,Pennsylvania,Emma Johnson,CRM Software,Qualified,11692.41,Cold Email,2026-04-27
+Newark Business 050,New Jersey,Sophia Anderson,Business Intelligence,Qualified,11889.59,Partner,2026-05-23
+Nashville Business 051,Tennessee,Michael Davis,Marketing Automation,Qualified,2129.76,Cold Call,2026-05-14
+Houston Business 052,Texas,William Thomas,Marketing Automation,New Lead,19111.18,Website,2026-06-10
+Newark Business 053,New Jersey,James Wilson,Marketing Automation,Negotiation,6859.69,Cold Email,2026-08-12
+Charlotte Business 054,North Carolina,Sophia Anderson,Business Intelligence,Proposal Sent,4907.97,Website,2026-06-19
+Phoenix Business 055,Arizona,William Thomas,Business Intelligence,Negotiation,11001.02,Cold Call,2026-06-17
+Nashville Business 056,Tennessee,Michael Davis,Marketing Automation,Contacted,7419.01,Cold Call,2026-07-14
+Newark Business 057,New Jersey,William Thomas,Marketing Automation,Negotiation,2341.86,Google Ads,2026-04-18
+Philadelphia Business 058,Pennsylvania,Ava Martinez,Business Intelligence,Proposal Sent,33120.97,Referral,2026-09-19
+New York Business 059,New York,Daniel Miller,Analytics Platform,Qualified,12630.36,Cold Email,2026-05-01
+Chicago Business 060,Illinois,Olivia Brown,Cybersecurity,New Lead,2275.45,Partner,2026-09-01
+Minneapolis Business 061,Minnesota,Michael Davis,Business Intelligence,Contacted,20449.39,LinkedIn,2026-05-05
+Miami Business 062,Florida,Ava Martinez,CRM Software,Closed Lost,17969.57,Cold Email,2026-09-23
+Miami Business 063,Florida,Sophia Anderson,Cybersecurity,Proposal Sent,6383.51,Partner,2026-09-29
+Nashville Business 064,Tennessee,Ava Martinez,Cloud Services,Proposal Sent,6240.55,Cold Email,2026-09-01
+Denver Business 065,Colorado,Ava Martinez,CRM Software,Closed Lost,32461.1,Cold Call,2026-05-21
+Boston Business 066,Massachusetts,Michael Davis,Analytics Platform,Qualified,14158.04,Cold Email,2026-02-11
+Newark Business 067,New Jersey,William Thomas,Cybersecurity,Closed Won,6148.39,Google Ads,2026-02-02
+Nashville Business 068,Tennessee,William Thomas,Marketing Automation,Proposal Sent,16560.39,LinkedIn,2026-08-04
+Minneapolis Business 069,Minnesota,Daniel Miller,Cybersecurity,Proposal Sent,24079.6,Partner,2026-06-30
+Nashville Business 070,Tennessee,William Thomas,Cybersecurity,Closed Won,7647.77,LinkedIn,2026-05-20
+Newark Business 071,New Jersey,Michael Davis,Marketing Automation,Qualified,22517.63,LinkedIn,2026-08-28
+Newark Business 072,New Jersey,Michael Davis,Cybersecurity,Negotiation,2094.44,Referral,2026-08-08
+Houston Business 073,Texas,Sophia Anderson,Cloud Services,Qualified,18946.17,Partner,2026-08-21
+Denver Business 074,Colorado,Ava Martinez,CRM Software,Closed Lost,18270.44,LinkedIn,2026-02-11
+Charlotte Business 075,North Carolina,James Wilson,Analytics Platform,Contacted,4606.22,Cold Email,2026-01-21
+Los Angeles Business 076,California,Olivia Brown,Marketing Automation,Negotiation,4990.4,Cold Email,2026-08-31
+Philadelphia Business 077,Pennsylvania,Olivia Brown,Analytics Platform,Closed Won,11451.04,Cold Call,2026-03-27
+Miami Business 078,Florida,William Thomas,Business Intelligence,Negotiation,3045.0,Cold Email,2026-07-12
+New York Business 079,New York,Olivia Brown,Marketing Automation,Negotiation,6343.92,LinkedIn,2026-06-04
+Charlotte Business 080,North Carolina,Sophia Anderson,CRM Software,Negotiation,21953.69,Partner,2026-02-05
+Detroit Business 081,Michigan,Michael Davis,Cybersecurity,New Lead,24647.09,Referral,2026-08-24
+Portland Business 082,Oregon,Ava Martinez,Cybersecurity,Closed Won,10771.61,Cold Call,2026-09-05
+Richmond Business 083,Virginia,Daniel Miller,Cybersecurity,Closed Lost,8803.72,Cold Email,2026-02-14
+Philadelphia Business 084,Pennsylvania,Sophia Anderson,Analytics Platform,Negotiation,19027.57,Webinar,2026-09-11
+Seattle Business 085,Washington,James Wilson,Marketing Automation,Qualified,9531.52,Cold Email,2026-05-22
+New York Business 086,New York,Ava Martinez,Business Intelligence,Contacted,20397.2,Webinar,2026-05-04
+Philadelphia Business 087,Pennsylvania,William Thomas,Business Intelligence,Closed Lost,2104.69,Cold Email,2026-04-24
+Phoenix Business 088,Arizona,Sophia Anderson,Cybersecurity,Closed Won,15194.51,Google Ads,2026-09-29
+Charlotte Business 089,North Carolina,Emma Johnson,CRM Software,Closed Won,27657.37,Cold Email,2026-05-09
+Richmond Business 090,Virginia,Daniel Miller,Business Intelligence,New Lead,4874.06,Cold Call,2026-09-05
+Miami Business 091,Florida,Michael Davis,Cloud Services,Closed Lost,6999.83,LinkedIn,2026-07-04
+Nashville Business 092,Tennessee,Daniel Miller,Business Intelligence,Contacted,8204.82,Referral,2026-01-28
+Detroit Business 093,Michigan,Ava Martinez,Cybersecurity,New Lead,2645.82,Google Ads,2026-08-29
+Atlanta Business 094,Georgia,Olivia Brown,CRM Software,New Lead,12234.79,Partner,2026-09-02
+Detroit Business 095,Michigan,Olivia Brown,Analytics Platform,New Lead,2170.69,Website,2026-06-05
+Nashville Business 096,Tennessee,William Thomas,Cybersecurity,Closed Lost,21456.86,Webinar,2026-04-26
+Phoenix Business 097,Arizona,Olivia Brown,Analytics Platform,Closed Lost,18748.42,Cold Email,2026-01-31
+Denver Business 098,Colorado,Olivia Brown,Analytics Platform,Closed Won,3482.7,LinkedIn,2026-03-30
+Columbus Business 099,Ohio,Daniel Miller,Business Intelligence,Proposal Sent,27932.0,Cold Call,2026-04-29
+Philadelphia Business 100,Pennsylvania,William Thomas,CRM Software,New Lead,9118.2,Cold Email,2026-04-12
+Chicago Business 101,Illinois,Daniel Miller,Marketing Automation,Qualified,4576.74,Cold Call,2026-03-26
+Philadelphia Business 102,Pennsylvania,Daniel Miller,Marketing Automation,New Lead,33297.15,Webinar,2026-07-26
+Philadelphia Business 103,Pennsylvania,Daniel Miller,CRM Software,New Lead,3000.6,Website,2026-06-15
+Boston Business 104,Massachusetts,James Wilson,Analytics Platform,Closed Won,3124.52,Webinar,2026-05-18
+Portland Business 105,Oregon,William Thomas,Business Intelligence,Closed Won,36366.98,Webinar,2026-04-03
+New York Business 106,New York,Olivia Brown,Analytics Platform,Proposal Sent,14756.35,Google Ads,2026-06-14
+Columbus Business 107,Ohio,James Wilson,Cybersecurity,Closed Won,27890.94,Website,2026-07-25
+Richmond Business 108,Virginia,James Wilson,Business Intelligence,Qualified,12782.47,Webinar,2026-07-26
+Columbus Business 109,Ohio,Ava Martinez,CRM Software,New Lead,7749.73,Cold Email,2026-09-13
+Denver Business 110,Colorado,Ava Martinez,CRM Software,Negotiation,6695.99,LinkedIn,2026-08-13
+Baltimore Business 111,Maryland,James Wilson,Marketing Automation,Closed Lost,8395.52,Partner,2026-06-09
+New York Business 112,New York,Michael Davis,Cybersecurity,Contacted,4030.61,Cold Call,2026-03-02
+Portland Business 113,Oregon,Ava Martinez,Analytics Platform,Closed Won,9869.71,Webinar,2026-09-05
+Nashville Business 114,Tennessee,Michael Davis,CRM Software,Contacted,17715.49,Cold Call,2026-09-18
+Columbus Business 115,Ohio,Daniel Miller,Marketing Automation,Qualified,11692.47,Webinar,2026-05-25
+Chicago Business 116,Illinois,Ava Martinez,Cloud Services,Proposal Sent,28659.17,Cold Email,2026-07-13
+Boston Business 117,Massachusetts,James Wilson,Cloud Services,Negotiation,18102.06,Webinar,2026-07-30
+Newark Business 118,New Jersey,Michael Davis,Marketing Automation,Proposal Sent,5625.94,Google Ads,2026-01-19
+Miami Business 119,Florida,James Wilson,Business Intelligence,Closed Lost,25346.11,Referral,2026-08-22
+Columbus Business 120,Ohio,Sophia Anderson,Marketing Automation,Closed Lost,4585.2,Partner,2026-05-16
+New York Business 121,New York,William Thomas,Cloud Services,Closed Lost,17753.3,Webinar,2026-10-01
+Nashville Business 122,Tennessee,Emma Johnson,Business Intelligence,New Lead,3622.59,Website,2026-05-28
+Columbus Business 123,Ohio,James Wilson,CRM Software,New Lead,3998.62,Google Ads,2026-06-03
+Houston Business 124,Texas,Emma Johnson,Marketing Automation,Qualified,14530.18,Partner,2026-03-16
+Minneapolis Business 125,Minnesota,William Thomas,Marketing Automation,Closed Won,4820.71,Cold Email,2026-02-10
+Detroit Business 126,Michigan,Ava Martinez,Cloud Services,Negotiation,4974.67,LinkedIn,2026-05-11
+Philadelphia Business 127,Pennsylvania,Daniel Miller,Business Intelligence,Qualified,4582.81,Partner,2026-06-26
+Denver Business 128,Colorado,Ava Martinez,CRM Software,Proposal Sent,8896.48,Cold Email,2026-07-16
+Newark Business 129,New Jersey,James Wilson,Business Intelligence,Negotiation,15879.98,Partner,2026-06-01
+Denver Business 130,Colorado,Daniel Miller,Analytics Platform,New Lead,3024.44,Google Ads,2026-09-12
+Boston Business 131,Massachusetts,Olivia Brown,Business Intelligence,Closed Won,8095.51,LinkedIn,2026-03-12
+Phoenix Business 132,Arizona,Michael Davis,CRM Software,Closed Lost,24450.42,Cold Call,2026-07-06
+Richmond Business 133,Virginia,Sophia Anderson,Marketing Automation,Closed Won,17580.76,Cold Call,2026-03-09
+Atlanta Business 134,Georgia,Sophia Anderson,CRM Software,Qualified,37059.69,Webinar,2026-06-01
+New York Business 135,New York,Sophia Anderson,CRM Software,Contacted,8902.97,Partner,2026-07-23
+Los Angeles Business 136,California,William Thomas,Business Intelligence,Qualified,4018.61,Google Ads,2026-05-15
+Miami Business 137,Florida,Emma Johnson,Business Intelligence,Closed Won,7591.23,Website,2026-06-17
+Philadelphia Business 138,Pennsylvania,Michael Davis,CRM Software,Closed Won,10921.58,LinkedIn,2026-03-01
+Phoenix Business 139,Arizona,William Thomas,Cybersecurity,Proposal Sent,3374.95,Google Ads,2026-03-11
+Nashville Business 140,Tennessee,Ava Martinez,Marketing Automation,Proposal Sent,6591.4,Partner,2026-02-20
+Denver Business 141,Colorado,Emma Johnson,Cloud Services,New Lead,13466.57,Website,2026-08-16
+Charlotte Business 142,North Carolina,Emma Johnson,CRM Software,Negotiation,12408.71,Webinar,2026-05-22
+New York Business 143,New York,James Wilson,Cloud Services,Closed Won,8165.75,Cold Email,2026-01-11
+Chicago Business 144,Illinois,Emma Johnson,Analytics Platform,Closed Lost,6231.56,Google Ads,2026-04-17
+Chicago Business 145,Illinois,Michael Davis,Marketing Automation,Closed Lost,2311.93,Cold Call,2026-03-16
+Atlanta Business 146,Georgia,Emma Johnson,Marketing Automation,New Lead,2148.28,Google Ads,2026-07-03
+Los Angeles Business 147,California,Olivia Brown,Business Intelligence,Contacted,8235.8,Website,2026-08-04
+Detroit Business 148,Michigan,Ava Martinez,Marketing Automation,Proposal Sent,15464.36,Cold Email,2026-02-25
+Baltimore Business 149,Maryland,James Wilson,Cybersecurity,New Lead,10061.19,Partner,2026-01-16
+Columbus Business 150,Ohio,Olivia Brown,CRM Software,Closed Won,4082.48,Google Ads,2026-08-16
+Baltimore Business 151,Maryland,William Thomas,Marketing Automation,Contacted,3427.14,Cold Call,2026-06-16
+Philadelphia Business 152,Pennsylvania,Emma Johnson,Cybersecurity,Negotiation,16892.61,Webinar,2026-02-28
+Boston Business 153,Massachusetts,William Thomas,Business Intelligence,Proposal Sent,17585.08,Website,2026-07-24
+Richmond Business 154,Virginia,Michael Davis,Business Intelligence,Proposal Sent,16489.48,Webinar,2026-07-11
+New York Business 155,New York,Sophia Anderson,Analytics Platform,New Lead,3367.81,LinkedIn,2026-02-19
+Minneapolis Business 156,Minnesota,Sophia Anderson,Business Intelligence,Negotiation,16522.59,Partner,2026-07-30
+Houston Business 157,Texas,Emma Johnson,Analytics Platform,Qualified,9582.41,Webinar,2026-09-17
+Boston Business 158,Massachusetts,Olivia Brown,Cloud Services,Closed Lost,3830.21,Cold Email,2026-07-08
+Columbus Business 159,Ohio,James Wilson,Analytics Platform,Closed Lost,2685.12,Cold Call,2026-05-17
+Phoenix Business 160,Arizona,William Thomas,CRM Software,Qualified,12041.21,Referral,2026-03-15
+Los Angeles Business 161,California,Sophia Anderson,Analytics Platform,New Lead,7269.66,Google Ads,2026-08-21
+Phoenix Business 162,Arizona,James Wilson,Analytics Platform,Closed Won,17243.64,Referral,2026-02-13
+Baltimore Business 163,Maryland,Ava Martinez,Marketing Automation,New Lead,3689.79,Webinar,2026-08-06
+Columbus Business 164,Ohio,Sophia Anderson,Cybersecurity,Qualified,8547.93,Website,2026-02-28
+Phoenix Business 165,Arizona,James Wilson,Analytics Platform,Closed Won,31113.61,Partner,2026-06-07
+Baltimore Business 166,Maryland,Michael Davis,Cloud Services,New Lead,2229.98,Cold Call,2026-04-19
+Richmond Business 167,Virginia,Michael Davis,Analytics Platform,New Lead,2559.56,Partner,2026-08-09
+Nashville Business 168,Tennessee,Olivia Brown,Cybersecurity,Closed Won,7688.39,LinkedIn,2026-07-01
+Columbus Business 169,Ohio,William Thomas,Marketing Automation,New Lead,36435.69,Partner,2026-06-10
+Columbus Business 170,Ohio,Michael Davis,Marketing Automation,Qualified,3929.06,Webinar,2026-06-16
+Charlotte Business 171,North Carolina,William Thomas,Marketing Automation,New Lead,23600.36,Partner,2026-05-05
+Portland Business 172,Oregon,Emma Johnson,Cloud Services,New Lead,23834.72,Referral,2026-06-23
+New York Business 173,New York,Sophia Anderson,Cloud Services,Negotiation,4155.09,Referral,2026-04-10
+Boston Business 174,Massachusetts,Michael Davis,Business Intelligence,New Lead,5033.52,Website,2026-03-30
+Atlanta Business 175,Georgia,Sophia Anderson,Business Intelligence,Closed Lost,30263.37,Google Ads,2026-08-18
+Chicago Business 176,Illinois,Daniel Miller,Marketing Automation,Proposal Sent,4044.06,LinkedIn,2026-06-05
+Charlotte Business 177,North Carolina,James Wilson,CRM Software,Negotiation,3758.73,Google Ads,2026-08-20
+Phoenix Business 178,Arizona,William Thomas,Cybersecurity,New Lead,4307.02,LinkedIn,2026-09-17
+Philadelphia Business 179,Pennsylvania,Michael Davis,CRM Software,Closed Lost,7085.15,Webinar,2026-09-01
+Miami Business 180,Florida,Michael Davis,CRM Software,Closed Lost,18631.1,Cold Email,2026-02-13
+Philadelphia Business 181,Pennsylvania,William Thomas,Cybersecurity,Proposal Sent,5300.65,Google Ads,2026-05-25
+Baltimore Business 182,Maryland,William Thomas,Cloud Services,New Lead,12444.91,Cold Call,2026-02-18
+Baltimore Business 183,Maryland,Sophia Anderson,Cloud Services,Closed Lost,5225.07,Partner,2026-03-14
+Chicago Business 184,Illinois,Sophia Anderson,Analytics Platform,Negotiation,3757.25,Website,2026-07-12
+Columbus Business 185,Ohio,Michael Davis,Analytics Platform,Negotiation,12123.06,Google Ads,2026-06-08
+Detroit Business 186,Michigan,Olivia Brown,Cloud Services,Contacted,9374.92,Website,2026-03-21
+Portland Business 187,Oregon,William Thomas,Analytics Platform,Closed Lost,2744.67,Referral,2026-03-09
+Atlanta Business 188,Georgia,William Thomas,Cloud Services,Closed Lost,6184.93,Cold Email,2026-01-23
+Philadelphia Business 189,Pennsylvania,Emma Johnson,Marketing Automation,Negotiation,11385.76,Cold Email,2026-08-18
+Phoenix Business 190,Arizona,Sophia Anderson,Business Intelligence,Closed Lost,36203.65,Webinar,2026-04-10
+Philadelphia Business 191,Pennsylvania,William Thomas,Analytics Platform,Closed Lost,11501.56,Cold Email,2026-09-15
+Baltimore Business 192,Maryland,Sophia Anderson,Marketing Automation,Contacted,8234.81,Website,2026-09-04
+Portland Business 193,Oregon,Daniel Miller,Cybersecurity,Closed Lost,3713.11,Referral,2026-03-24
+Columbus Business 194,Ohio,James Wilson,Cybersecurity,New Lead,8756.37,LinkedIn,2026-06-28
+Newark Business 195,New Jersey,Sophia Anderson,Analytics Platform,Negotiation,13591.5,LinkedIn,2026-02-11
+Richmond Business 196,Virginia,James Wilson,Cloud Services,New Lead,17341.82,Webinar,2026-03-12
+Chicago Business 197,Illinois,Olivia Brown,CRM Software,Closed Lost,30056.12,Cold Call,2026-01-03
+Seattle Business 198,Washington,William Thomas,CRM Software,Closed Lost,5758.29,Cold Call,2026-09-28
+Boston Business 199,Massachusetts,Ava Martinez,CRM Software,Qualified,3285.95,Website,2026-08-03
+Detroit Business 200,Michigan,Michael Davis,Cloud Services,Negotiation,2710.95,Partner,2026-05-04
